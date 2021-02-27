@@ -7,10 +7,10 @@ The dataset is composed of the following variables:
 1. year: 2013
 2. month: 1-12
 3. day: Day of the month(1-31)
-4. dep_time: Departure times, local timezone
+4. dep_time: Departure time in local timezone
 5. sched_dep_time: Scheduled departure time
-6. dep_delay: Departure delay, in minutes, Negative times represent early departures
-7. arr_time: Arrival times, local timezone
+6. dep_delay: Departure delay, in minutes (Negative times represent early departures)
+7. arr_time: Arrival time in local timezone
 8. sched_arr_time: Scheduled arrival time
 9. arr_delay: Arrival delay, in minutes (Negative times represent early arrivals)
 10. carrier: Two letter carrier abbreviation
